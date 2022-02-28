@@ -1,6 +1,6 @@
 {
   "name": "jpp-test-item1",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha.0",
   "description": "> TODO: description",
   "author": "jpp <jinpengpeng@shizhuang-inc.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "jpp-test-item2": "^0.0.1"
+    "jpp-test-item2": "^0.0.2-alpha.0"
   }
 }
