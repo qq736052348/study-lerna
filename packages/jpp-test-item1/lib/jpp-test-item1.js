@@ -3,7 +3,7 @@ const one = require('jpp-test-item2')
 const axios  = require('axios')
 
 module.exports = jppTestItem1;
-
+console.log(1)
 function jppTestItem1() {
     one()
     return {
