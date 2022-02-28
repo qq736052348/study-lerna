@@ -1,7 +1,8 @@
 'use strict';
 const one = require('jpp-test-item2')
+const axios  = require('axios')
 
-
+console.log(axios,'axios')
 module.exports = jppTestItem1;
 
 function jppTestItem1() {
